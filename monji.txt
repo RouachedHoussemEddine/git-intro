@@ -1,0 +1,48 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  cleqr
+    5  cleaer
+    6  clear
+    7  ls
+    8  sudo 
+    9  sudo apt get install neofetch
+   10  sudo aptinstall neofetch
+   11  sudo apt install neofetch
+   12  clear
+   13  neofetch
+   14  exit
+   15  cleqr
+   16  clear
+   17  git config --list
+   18  git config --global user.name "RouachedHoussemEddine"
+   19  git config --global user.email houssem.rouached@gmail.com
+   20  clear
+   21  git config --list
+   22  ls
+   23  cd labs
+   24  ls
+   25  cd devnet-src/
+   26  ls
+   27  mkdir git-into
+   28  rmdir git-into/
+   29  mkdir git-intro
+   30  ls
+   31  cd git-intro/
+   32  ls
+   33  git init
+   34  ls -a
+   35  git status
+   36  echo "I am on my way to passing the Cisco DEVASC exam" > DEVASC.txt
+   37  ls
+   38  ls -la
+   39  ls -l
+   40  ll
+   41  git add DEVASC.txt 
+   42  git status
+   43  git commit -m "first commit"
+   44  git branch
+   45  git push
+   46  git push -u user
+   47  clear
+   48  history > monji.txt
