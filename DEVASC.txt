@@ -1,2 +1,2 @@
-I am beginning to understand Git!
+I am beginning to understand DevNet!
 This text was added originally while in the feature branch
